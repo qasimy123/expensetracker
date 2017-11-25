@@ -1,0 +1,23 @@
+{
+  "name": "expense",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material/typography": "^0.3.0",
+    "material-components-web": "^0.25.0",
+    "moment": "^2.19.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-motion-menu": "^0.4.4",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.17",
+    "react-svg-piechart": "^1.4.0",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
